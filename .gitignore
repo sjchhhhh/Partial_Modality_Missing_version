@@ -21,3 +21,5 @@ ckpt/
 # ===== cache =====
 __pycache__/
 *.pyc
+
+.idea/
